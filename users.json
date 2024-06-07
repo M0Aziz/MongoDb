@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "65d4d95048bc827012fd8ddf"
+  },
+  "firstName": "hadil",
+  "lastName": "khchrem",
+  "email": "az.tt.95@gmail.com",
+  "password": "$2b$10$eyaaH8KnqMInvTwDjRSN2OZwXWML5AgVi2FgaxBePNkmiMKeyIAT6",
+  "profilePicture": "1709150970226-1200px-Jenkins_logo.svg.png",
+  "role": "user",
+  "firstTime": false,
+  "__v": 0,
+  "isLoggedIn": false,
+  "lastLogin": {
+    "$date": "2024-06-06T21:20:49.285Z"
+  },
+  "isBanned": false,
+  "isSuspended": false,
+  "reasonForSuspension": "",
+  "suspensionEndDate": null
+},{
+  "_id": {
+    "$oid": "65dca4d6a9a1c04210f5820b"
+  },
+  "firstName": "Thinkpad",
+  "lastName": "testesemple",
+  "email": "az.tt.950@gmail.com",
+  "password": "$2b$10$f841StNWQFhDAF.XDLthMeQ.LZdsSI3XmyQ8dwnGRdogkfFjQlnei",
+  "profilePicture": "1708958933998-swingman-nba-warriors-curry-statement-edition-golden-state.jpg",
+  "role": "user",
+  "firstTime": false,
+  "__v": 0,
+  "isLoggedIn": true,
+  "lastLogin": {
+    "$date": "2024-06-06T18:28:06.401Z"
+  },
+  "isBanned": false,
+  "isSuspended": false
+},{
+  "_id": {
+    "$oid": "65e5cc6dd3cf96d87db11372"
+  },
+  "firstName": "Med aziz",
+  "lastName": "Chouchi",
+  "email": "medaziz.chouchi@esprit.tn",
+  "profilePicture": "1711729386922-join_meetup.webp",
+  "role": "user",
+  "firstTime": false,
+  "__v": 0,
+  "isLoggedIn": false,
+  "lastLogin": {
+    "$date": "2024-06-06T16:21:47.511Z"
+  },
+  "isBanned": false,
+  "isSuspended": false
+},{
+  "_id": {
+    "$oid": "65ef7ab264e205d9bcfc36f0"
+  },
+  "firstName": "Adem",
+  "lastName": "Jbeli",
+  "email": "xxxxxx@gmail.com",
+  "password": "$2b$10$/htPEnRT9XK4/w9SMtMWduY6tAF.ksH./7708ACQm1x2gUY38iqmC",
+  "profilePicture": "1710193330140-Capture12.PNG",
+  "role": "admin",
+  "firstTime": false,
+  "isLoggedIn": false,
+  "lastLogin": {
+    "$date": "2024-06-03T19:28:29.644Z"
+  },
+  "__v": 0,
+  "isBanned": false,
+  "isSuspended": false
+},{
+  "_id": {
+    "$oid": "65ef7bd264e205d9bcfc36f3"
+  },
+  "firstName": "h",
+  "lastName": "azx",
+  "email": "xxxxxxs@gmail.com",
+  "password": "$2b$10$x7FEfWxNlIGfseYI3tnNPelcBcdSpkIHhG2RWrRFa.pppXXwnHLNK",
+  "profilePicture": "1710193618124-Capture12.PNG",
+  "role": "user",
+  "firstTime": true,
+  "isLoggedIn": false,
+  "lastLogin": {
+    "$date": "2024-03-11T21:46:58.357Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "664f933e8baa9f5f8533c02e"
+  },
+  "firstName": "h",
+  "lastName": "x",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$9BaEOLOuSN/Hx9scBhQqpO61J5sJAg.InoXkKZ9oR0Y.9us5W.dl6",
+  "role": "admin",
+  "firstTime": true,
+  "isLoggedIn": false,
+  "lastLogin": {
+    "$date": "2024-05-23T19:04:30.445Z"
+  },
+  "__v": 0
+}]
